@@ -1,0 +1,32 @@
+[
+
+{
+    "firstname":"Gauravv",
+    "lastname":"Nigamm",
+    "city":"Gurgaonn",
+    "address":"Secotr 21",
+    "state":"Haryana",
+    "zipcode":"12345",
+    "phonenumber":"123456789",
+    "ssn":"6897",
+    "username":"Tester11",
+    "password":"abc123",
+    "confirmpassword":"abc123"
+},
+
+{
+     "firstname": "Automation",
+    "lastname": "User",
+    "city": "New York",
+    "address": "Address 2",
+    "state": "NY",
+    "zipcode": "54321",
+    "phonenumber": "9876543210",
+    "ssn": "987659876",
+    "username": "AutoUsers1",
+    "password": "password123",
+    "confirmpassword": "password123"
+
+}
+
+]

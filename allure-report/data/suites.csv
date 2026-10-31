@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","10337","tcRegister","chrome","2026-10-30","passed","2026-10-30","","tcRegister.spec.ts","",""
+"","10414","register Tester1","chrome","2026-10-31","passed","2026-10-31","","tcDataDriven.spec.ts","",""
+"","9694","register AutoUsers","chrome","2026-10-31","passed","2026-10-31","","tcDataDriven.spec.ts","",""
